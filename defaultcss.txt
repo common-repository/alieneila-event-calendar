@@ -1,0 +1,368 @@
+#evWidgetUL {
+}
+
+#evWidgetDate {
+}
+
+#evWidgetLI {
+}
+
+.popupFC {
+display: none;
+position:absolute;
+border-style: solid;
+background-color: white;
+color: black;
+padding: 2px
+}
+
+#cal {
+display: block;
+width: 260px;
+background: black;
+overflow: hidden
+}
+
+#calTable {
+display: block;
+width: 260px;
+background: black
+}
+
+#tableTR {
+display: block;
+width: 260px;
+float: left
+}
+
+.calBlank {
+border: 1px solid black;
+display: block;
+float: left;
+width: 35px;
+height: 35px;
+}
+
+#calTH {
+display: block;
+width:260px;
+text-align: center;
+background: #404040
+}
+
+#calMonth {
+color: white;
+padding: 0px 5px 0px 5px
+}
+
+#calYear {
+color: yellow;
+padding: 0px 5px 0px 5px
+}
+
+#calNext {
+border: 1px solid white;
+display: block;
+float: right;
+background: black;
+width: 20px;
+text-align: center
+}
+
+#calPrev {
+border: 1px solid white;
+display: block;
+float: left;
+background: black;
+width: 20px;
+text-align: center
+}
+
+.calDW {
+border: 1px solid black;
+display: block;
+width: 35px;
+height: 35px;
+line-height: 300%;
+float: left;
+text-align: center;
+font-weight: bold
+}
+
+.calDay {
+border: 1px solid black;
+display: block;
+width: 35px;
+height: 35px;
+line-height: 300%;
+float: left;
+text-align: center;
+background: #303030
+}
+
+#calTActive {
+border: 1px solid black;
+display: block;
+width: 35px;
+height: 35px;
+line-height: 300%;
+float: left;
+text-align: center;
+background: black
+}
+
+#calTActive a {
+display: block;
+width: 35px;
+height: 35px;
+line-height: 300%;
+float: left;
+font-weight: bold;
+text-align: center;
+color: yellow
+}
+
+.calActive {
+border: 1px solid black;
+display: block;
+width: 35px;
+height: 35px;
+line-height: 300%;
+float: left;
+text-align: center;
+background: #c0c0c0
+}
+
+.calActive a {
+display: block;
+width: 35px;
+height: 35px;
+line-height: 300%;
+float: left;
+text-align: center;
+color: black;
+font-weight: bold
+}
+
+#calToday {
+border: 1px solid black;
+display: block;
+width: 35px;
+height: 35px;
+line-height: 300%;
+float: left;
+text-align: center;
+background: #999999
+}
+
+.fullCalLink {
+}
+#calFC {
+display: block;
+width: 644px;
+background: black;
+overflow: hidden
+}
+
+#calTableFC {
+display: block;
+width: 644px;
+background: black
+}
+
+#tableTRFC {
+display: block;
+width: 644px;
+float: left
+}
+
+.calBlankFC {
+border: 1px solid black;
+display: block;
+float: left;
+width: 90px;
+height: 90px;
+}
+
+#calTHFC {
+display: block;
+width:644px;
+text-align: center;
+background: #404040
+}
+
+#calMonthFC {
+color: white;
+padding: 0px 5px 0px 5px
+}
+
+#calYearFC {
+color: yellow;
+padding: 0px 5px 0px 5px
+}
+
+#calNextFC {
+border: 1px solid white;
+display: block;
+float: right;
+background: black;
+width: 20px;
+text-align: center
+}
+
+#calPrevFC {
+border: 1px solid white;
+display: block;
+float: left;
+background: black;
+width: 20px;
+text-align: center
+}
+
+.calDWFC {
+border: 1px solid black;
+display: block;
+width: 90px;
+height: 45px;
+line-height: 300%;
+float: left;
+text-align: center;
+font-weight: bold
+}
+
+.calDayFC {
+border: 1px solid black;
+display: block;
+width: 90px;
+height: 90px;
+line-height: 100%;
+float: left;
+text-align: left;
+background: #303030
+}
+
+#calTActiveFC {
+border: 1px solid black;
+display: block;
+width: 90px;
+height: 90px;
+line-height: 100%;
+float: left;
+text-align: left;
+background: black
+}
+.calActiveFC {
+border: 1px solid black;
+display: block;
+width: 90px;
+height: 90px;
+line-height: 100%;
+float: left;
+text-align: left;
+background: #c0c0c0
+}
+
+#calTodayFC {
+border: 1px solid black;
+display: block;
+width: 90px;
+height: 90px;
+line-height: 100%;
+float: left;
+text-align: left;
+background: #999999
+}
+
+#eventCatList {
+display: block;
+width: 100%
+}
+
+.catMainUL {
+list-style: none;
+float: left;
+}
+
+.catSubUL {
+list-style: none;
+}
+.catChildUL {
+list-style: none;
+}
+
+.catMainList {
+}
+
+.catSubList {
+}
+
+.catChildList {
+}
+
+.catMainList a {
+}
+
+.catSubList a {
+}
+
+.catChildList a {
+}
+
+#eventDateHead {
+display: block;
+font-size: 17px
+}
+
+.eventsList {
+display: block
+}
+
+.eventBlock {
+display: block;
+border-bottom: 1px solid white
+}
+.eventDetails {
+float: left
+}
+
+.eventOptions {
+float: right
+}
+
+.myEventTitle {
+text-transform: uppercase
+}
+
+.myEventLocationTitle {
+}
+
+.myEventLocation {
+}
+
+.myEventTimeTitle {
+}
+
+.myEventTime {
+}
+
+.eventOptions span {
+display: block;
+float: left;
+margin: 2px;
+background: yellow
+}
+.eventOptions span a:hover {
+color: white;
+background: black;
+border: 1px solid yellow
+}
+
+.btnLink {
+display: block;
+font-size: 12px;
+color: black;
+padding: 2px 5px 2px 5px;
+margin: 0px;
+border: 1px black solid;
+line-height: 110%
+}

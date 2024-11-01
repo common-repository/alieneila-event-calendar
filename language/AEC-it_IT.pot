@@ -1,0 +1,314 @@
+# Translation of the WordPress plugin   by .
+# Copyright (C) 2010
+# This file is distributed under the same license as the  package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2010.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: AlieneilA Event Calendar\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/alieneila-event-calendar\n"
+"POT-Creation-Date: 2010-07-13 18:58+0000\n"
+"PO-Revision-Date: 2010-12-20 02:54+0100\n"
+"Last-Translator: elisabetta <mancinielisabetta@gmail.com>\n"
+"Language-Team: AlieneilA <joshua.segatto@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+
+#: alieneila_calendar.php:41
+msgid "Sunday"
+msgstr "Domenica"
+
+#: alieneila_calendar.php:41
+msgid "Monday"
+msgstr "Lunedì"
+
+#: alieneila_calendar.php:41
+msgid "Tuesday"
+msgstr "Martedì"
+
+#: alieneila_calendar.php:41
+msgid "Wednesday"
+msgstr "Mercoledì"
+
+#: alieneila_calendar.php:41
+msgid "Thursday"
+msgstr "Giovedì"
+
+#: alieneila_calendar.php:41
+msgid "Friday"
+msgstr "Venerdì"
+
+#: alieneila_calendar.php:41
+msgid "Saturday"
+msgstr "Sabato"
+
+#: alieneila_calendar.php:41
+#: classes/ALCalWidget.php:555
+#: classes/ALCalWidget.php:571
+#: classes/FullCal.php:471
+#: classes/FullCal.php:487
+msgid "SU"
+msgstr "DO"
+
+#: alieneila_calendar.php:41
+#: classes/ALCalWidget.php:556
+#: classes/ALCalWidget.php:565
+#: classes/FullCal.php:472
+#: classes/FullCal.php:481
+msgid "MO"
+msgstr "LU"
+
+#: alieneila_calendar.php:41
+#: classes/ALCalWidget.php:557
+#: classes/ALCalWidget.php:566
+#: classes/FullCal.php:473
+#: classes/FullCal.php:482
+msgid "TU"
+msgstr "MA"
+
+#: alieneila_calendar.php:41
+#: classes/ALCalWidget.php:558
+#: classes/ALCalWidget.php:567
+#: classes/FullCal.php:474
+#: classes/FullCal.php:483
+msgid "WE"
+msgstr "ME"
+
+#: alieneila_calendar.php:41
+#: classes/ALCalWidget.php:559
+#: classes/ALCalWidget.php:568
+#: classes/FullCal.php:475
+#: classes/FullCal.php:484
+msgid "TH"
+msgstr "GI"
+
+#: alieneila_calendar.php:41
+#: classes/ALCalWidget.php:560
+#: classes/ALCalWidget.php:569
+#: classes/FullCal.php:476
+#: classes/FullCal.php:485
+msgid "FR"
+msgstr "VE"
+
+#: alieneila_calendar.php:41
+#: classes/ALCalWidget.php:561
+#: classes/ALCalWidget.php:570
+#: classes/FullCal.php:477
+#: classes/FullCal.php:486
+msgid "SA"
+msgstr "SA"
+
+#: alieneila_calendar.php:42
+msgid "January"
+msgstr "Gennaio"
+
+#: alieneila_calendar.php:42
+msgid "February"
+msgstr "Febbraio"
+
+#: alieneila_calendar.php:42
+msgid "March"
+msgstr "Marzo"
+
+#: alieneila_calendar.php:42
+msgid "April"
+msgstr "Aprile"
+
+#: alieneila_calendar.php:42
+msgid "May"
+msgstr "Maggio"
+
+#: alieneila_calendar.php:42
+msgid "June"
+msgstr "Giugno"
+
+#: alieneila_calendar.php:42
+msgid "July"
+msgstr "Luglio"
+
+#: alieneila_calendar.php:42
+msgid "August"
+msgstr "Agosto"
+
+#: alieneila_calendar.php:42
+msgid "September"
+msgstr "Settembre"
+
+#: alieneila_calendar.php:42
+msgid "October"
+msgstr "Ottobre"
+
+#: alieneila_calendar.php:42
+msgid "November"
+msgstr "Novembre"
+
+#: alieneila_calendar.php:42
+msgid "December"
+msgstr "Dicembre"
+
+#: alieneila_calendar.php:96
+msgid "AlieneilA Event Calendar"
+msgstr "AlieneilA Event Calendar"
+
+#: alieneila_calendar.php:2444
+msgid "Members who have RSVPd"
+msgstr "Utenti che hanno una prenotazione per l'evento"
+
+#: alieneila_calendar.php:3490
+msgid "You have already RSVPd for this event"
+msgstr "Hai già una prenotazione per questo evento"
+
+#: alieneila_calendar.php:3494
+msgid "You were not invited to this event"
+msgstr "Non sei stato invitato a questo evento"
+
+#: alieneila_calendar.php:3498
+msgid "You must be logged in to RSVP"
+msgstr "Devi essere loggato nella lista di partecipazione"
+
+#: alieneila_calendar.php:3535
+msgid "Full Calendar"
+msgstr "Calendario completo"
+
+#: alieneila_calendar.php:3568
+#: classes/FullCal.php:143
+msgid "Select Category"
+msgstr "Seleziona una categoria"
+
+#: alieneila_calendar.php:3615
+#: alieneila_calendar.php:3723
+msgid "There are no events scheduled for today"
+msgstr "Non ci sono eventi per oggi"
+
+#: alieneila_calendar.php:3672
+msgid "More"
+msgstr "Leggi tutto"
+
+#: alieneila_calendar.php:3676
+#: alieneila_calendar.php:3785
+#: alieneila_calendar.php:3788
+msgid "Location"
+msgstr "Luogo"
+
+#: alieneila_calendar.php:3678
+#: alieneila_calendar.php:3682
+msgid "Time"
+msgstr "Tempo"
+
+#: alieneila_calendar.php:3686
+#: alieneila_calendar.php:3693
+#: alieneila_calendar.php:3699
+#: alieneila_calendar.php:3705
+#: alieneila_calendar.php:3711
+#: alieneila_calendar.php:3800
+msgid "Repeats"
+msgstr "Ripetizione"
+
+#: alieneila_calendar.php:3686
+#: alieneila_calendar.php:3803
+msgid "of every month"
+msgstr "ogni mese"
+
+#: alieneila_calendar.php:3688
+#: alieneila_calendar.php:3695
+#: alieneila_calendar.php:3701
+#: alieneila_calendar.php:3707
+#: alieneila_calendar.php:3713
+msgid "Until"
+msgstr "fino a"
+
+#: alieneila_calendar.php:3693
+msgid "Daily"
+msgstr "giornaliero"
+
+#: alieneila_calendar.php:3699
+msgid "Weekly"
+msgstr "settimanale"
+
+#: alieneila_calendar.php:3705
+msgid "Monthly"
+msgstr "mensile"
+
+#: alieneila_calendar.php:3711
+msgid "Yearly"
+msgstr "annuale"
+
+#: alieneila_calendar.php:3757
+msgid "Comments"
+msgstr "Commenti"
+
+#: alieneila_calendar.php:3766
+#: alieneila_calendar.php:3769
+msgid "RSVP"
+msgstr "Prenotazioni riservate"
+
+#: alieneila_calendar.php:3778
+msgid "Online Event"
+msgstr "Evento online"
+
+#: alieneila_calendar.php:3779
+msgid "Website"
+msgstr "Sitoweb"
+
+#: alieneila_calendar.php:3795
+msgid "Start"
+msgstr "Inizio"
+
+#: alieneila_calendar.php:3803
+msgid "On the"
+msgstr "in"
+
+#: alieneila_calendar.php:3803
+#: alieneila_calendar.php:3806
+msgid "event_repeat"
+msgstr "ripetizione_evento"
+
+#: alieneila_calendar.php:3809
+msgid "until"
+msgstr "da"
+
+#: alieneila_calendar.php:3820
+#: alieneila_calendar.php:3823
+msgid "RSVPs"
+msgstr "Prenotazioni"
+
+#: alieneila_calendar.php:3820
+msgid "out of"
+msgstr "fuori"
+
+#: alieneila_calendar.php:3820
+msgid "available"
+msgstr "disponibile"
+
+#: alieneila_calendar.php:3828
+#: alieneila_calendar.php:3831
+msgid "Price"
+msgstr "Prezzo"
+
+#: alieneila_calendar.php:3828
+msgid "Free"
+msgstr "Gratuito"
+
+#: alieneila_calendar.php:3836
+msgid "Address"
+msgstr "Indirizzo"
+
+#: alieneila_calendar.php:3854
+msgid "Contact"
+msgstr "Contatti"
+
+#: alieneila_calendar.php:3910
+msgid "Event Calendar"
+msgstr "Calendario eventi"
+
+#: alieneila_settings.php:2364
+msgid "Save Changes"
+msgstr "Salva cambiamenti"
+
+#: classes/ALCalWidget.php:645
+msgid "Events Calendar"
+msgstr "Calendario eventi"
+
